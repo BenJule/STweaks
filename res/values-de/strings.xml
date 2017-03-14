@@ -1,0 +1,70 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">STweaks</string>
+    <string name="menu_about">Über STweaks</string>
+    <string name="title_activity_main" translatable="false">STweaks</string>
+    <string name="bottom_accept">Bestätigen</string>
+    <string name="bottom_decline">Abbrechen</string>
+    <string name="startmenu_initial" translatable="false" />
+    <string name="startmenu_nokernelsupport">Sorry, Kernel wird nicht unterstützt!</string>
+    <string name="reset_settings">Einstellungen zurücksetzen</string>
+    <string name="developer_info" tools:ignore="TypographyDashes">Developed by Gokhan Moral\nUpdated by B--B</string>
+    <string name="startmenu_no_root">Kein root Zugriff, oder Timeout!</string>
+    <string name="rom_thread">Forum</string>
+    <string name="community">JDCTeam community auf G+</string>
+    <string name="wait">Lade Profil, bitte warte bis STweaks geschlossen und neu gestartet wird!</string>
+    <string name="log_done">Alle Daten wurden gesammelt und sind verfügbar in /sdcard/alucard-debug.zip</string>
+    <string name="select_profile">STweaks Profil</string>
+    <string name="profile_check">Überprüfe Profil</string>
+    <string name="extreme_performance">Extrem Performance Profil</string>
+    <string name="performance">Performance Profil</string>
+    <string name="default_profile">Standard Profil</string>
+    <string name="battery">Batterie</string>
+    <string name="extreme_battery">Extrem Batterie Profil</string>
+    <string name="disclaimer">We\'re not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this application before changing any value! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.\nJDCTeam,Testers and Contributors\nalucard24, AntaresOne, smeroni68, Jimsilver73, franzyroy, Angelcalibur, Kryten2k35, -+BB+-</string>
+    <string name="reset_settings_prompt">All settings will be reset. You will have to relaunch the application.</string>
+    <string name="warning">Warnung</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="kernel">"\n Kernel Version: "</string>
+    <string name="back">Zurück</string>
+    <string name="romversion">"\n ROM Version: "</string>
+    <string name="romapi">"\n ROM API Level: "</string>
+    <string name="romcode">"\n ROM Codename: "</string>
+    <string name="romrel">"\n ROM Release Version: "</string>
+    <string name="hwserial">"\n Hardware Serial: "</string>
+    <string name="radio">"\n Baseband Version: "</string>
+    <string name="device">"\n Gerät: "</string>
+    <string name="model">"\n Model (und Produkt): "</string>
+    <string name="appver">App Version: </string>
+    <string name="appvernf">App Version: Nicht gefunden!</string>
+    <string name="choose_profile">Wähle STweaks Profil</string>
+    <string name="loading">Lade! Bitte warten…</string>
+    <string name="yourprofile">"Dein Profil ist: "</string>
+    <string name="settings">"Einstellungen"</string>
+    <string name="pref_launcher_icon">"Launcher Icon"</string>
+    <string name="pref_launcher_icon_description">"Wähle dein Launcher Icon."</string>
+    <string name="pref_launcher_icon_default" translatable="false">Material</string>
+    <string name="change_icon">"Wechsle STweaks Icon, bitte warten."</string>
+    <string name="no_icon">"Entfehrne STweaks Icon, bitte warten."</string>
+    <string name="do_not_show">"Nicht erneut anzeigen"</string>
+    <string name="contributors">"JDCTeam,Tester und Contributor:\nalucard24, AntaresOne, smeroni68, Jimsilver73, franzyroy, Angelcalibur, Kryten2k35, -+BB+-"</string>
+    <string name="pref_animation_in">"Animation In"</string>
+    <string name="pref_animation_in_description">"Animation used when Accept/Discard changes buttons become visible"</string>
+    <string name="pref_animation_in_default" translatable="false">"fadescalein"</string>
+    <string name="pref_animation_out_accept">"Animation Out Accept Button"</string>
+    <string name="pref_animation_out_description_accept">"Animation used when user press Accept Button"</string>
+    <string name="pref_animation_out_default_accept" translatable="false">"fadescaleout"</string>
+    <string name="pref_animation_out_description_decline">"Animation used when user press Discard Button"</string>
+    <string name="pref_animation_out_decline">"Animation Out Decline Button"</string>
+    <string name="pref_animation_out_default_decline" translatable="false">"fadescaleout"</string>
+    <string name="pref_theme">"Theme Chooser"</string>
+    <string name="pref_description_theme">"Wähle dein Theme"</string>
+    <string name="pref_theme_default" translatable="false">"sammy"</string>
+    <string name="theme_change">"STweaks will now restart with the selected theme"</string>
+    <string name="pref_changelog">"Kompletter Changelog auf GitHub"</string>
+    <string name="log_widget">"STweaks Log Widget"</string>
+    <string name="log_button">"Speichere Log"</string>
+    <string name="quotation_marks_text" translatable="false">""</string>
+
+</resources>
